@@ -1,4 +1,15 @@
 # portfolio_projects
+
+## 📁 Project Structure
+
+portfolio_projects/
+├──EXCEL-Vivi-Calf-Sales-Project.xlsx
+├──EXCEL-Vivi-Calf-Sales-Dashboard.png
+├──POSTGRES SQL-Zepto Analysis.sql
+├──TABLEAU-Zepto Product Inventory &Pricing Dashboard.twb
+├──TABLEAU-Zepto Product Inventory &Pricing Dashboard.png
+├── README.md
+
 # 📊 Vivi Calf Sales Dashboard | Microsoft Excel
 
 ## Project Overview
@@ -145,18 +156,6 @@ From the dashboard, we can identify:
 - Customer satisfaction trends
 - Performance across sales channels
 - Gender-wise purchasing behaviour
-
----
-
-## 📁 Project Structure
-
-```
-Vivi Calf-Sales-Dashboard/
-│
-├── Dashboard.xlsx
-├── Dashboard.png
-├── README.md
-```
 
 ---
 
