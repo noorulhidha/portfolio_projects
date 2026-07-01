@@ -176,8 +176,7 @@ Vivi Calf-Sales-Dashboard/
 ---
 
 ## 📷 Dashboard Preview
-![Vivi Calf Sales Dashboard]
-[image alt](EXCEL-Vivi%20Calf%20Sales%20Dashboard.png)
+![Vivi Calf Sales Dashboard](EXCEL-Vivi%20Calf%20Sales%20Dashboard.png)
 
 ```
 
